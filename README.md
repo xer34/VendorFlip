@@ -36,6 +36,10 @@ Click the gold coin on the minimap or type `/vflip`. At an auctioneer, click **L
 
 Tested against mocked WoW APIs; live-client testing is ongoing. Horde capital vendor seeds are minimal. The addon learns them as you open merchants.
 
+## License
+
+MIT. See [LICENSE](LICENSE).
+
 ## Credits
 
 Recipe vendor data in `RecipeVendors.lua` is derived from WhatsTraining's WoW Forever data, used under the MIT License (see `WhatsTraining-LICENSE.txt`).
