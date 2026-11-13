@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: VendorFlip
+## Notes: Rank merchant-to-auction flips in WoW Forever.
+## Version: 0.4.1
+## IconTexture: Interface\Icons\INV_Misc_Coin_01
+## OptionalDeps: Auctionator, TradeSkillMaster
+## SavedVariables: VendorFlipData
+## SavedVariablesPerCharacter: VendorFlipDB
+
+Catalog.lua
+RecipeVendors.lua
+VendorFlip.lua
